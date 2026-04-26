@@ -74,5 +74,5 @@ fields:
     label: Creator
   - field: date
     label: Date
-  - field: transcription
+  - field: description
     label: Transcription
