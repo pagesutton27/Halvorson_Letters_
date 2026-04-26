@@ -67,6 +67,8 @@ sass:
 # ITEM PAGE FIELDS
 #
 # These control what metadata shows on item pages
+##########
+# ITEM METADATA DISPLAY
 
 fields:
   - field: title
@@ -77,4 +79,3 @@ fields:
     label: Date
   - field: transcription
     label: Transcription
-    
