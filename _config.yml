@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: The Halvorson Letters
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: letters from our dear Sam and Margaret
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "This is a collection of letters written by my maternal great grandparents, Margaret Skillbred and Selmer Halvorson, during the summer of 1945. At this time, they had met several times and began courting, choosing to build their trust in one another by maintaining their relationship over the 'long' distance. Their letters are family treasures."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Page Sutton-Flom
 
 ##########
 # COLLECTION SETTINGS
