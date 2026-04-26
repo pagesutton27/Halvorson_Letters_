@@ -1,7 +1,7 @@
 <div style="display: flex; gap: 20px;">
 
   <div>
-    <img src="{{ '/objects/children_and_grands.jpeg' | relative_url }}" width="200">
+    <img src="{{ '/objects/children_and_grands.jpeg' | relative_url }}" width="200" height="200">
   </div>
 
   <div>
