@@ -68,13 +68,11 @@ sass:
 # ITEM METADATA DISPLAY
 
 fields:
-    - field: title
+  - field: title
     label: Title
-    - field: creator
+  - field: creator
     label: Creator
-    - field: date
+  - field: date
     label: Date
-    - field: transcription
+  - field: transcription
     label: Transcription
-featured-image: photo01
-
