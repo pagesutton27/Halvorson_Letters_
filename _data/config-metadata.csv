@@ -10,12 +10,11 @@ findingaid,Finding Aid,
 keywords,Keywords,
 description,Transcription,
 subject,Subjects,true
-location,Location
-source,Source
-identifier,Source Identifier,,
+location,Location,
+source,Source,
 type,Type,
 item_size,Size,
 format,Format,
 rights,Rights,
-rightsstatement,Rights Statement,,true
+rightsstatement,Rights Statement,
 LCSH,Subject Headings
