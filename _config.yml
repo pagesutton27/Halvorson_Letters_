@@ -79,4 +79,8 @@ fields:
     label: Date
   - field: transcription
     label: Transcription
- 
+ ##########
+# FEATURED IMAGE
+
+featured-image: Children and grands.jpeg
+
