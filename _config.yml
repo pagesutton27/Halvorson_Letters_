@@ -69,8 +69,10 @@ sass:
 # These control what metadata shows on item pages
 ##########
 # ITEM METADATA DISPLAY
+##########
+# ITEM METADATA DISPLAY
 
-fields:
+fields:  
   - field: title
     label: Title
   - field: creator
@@ -79,9 +81,6 @@ fields:
     label: Date
   - field: transcription
     label: Transcription
- ##########
-# FEATURED IMAGE
-
 featured-image:children_and_grands.jpeg
 
 
