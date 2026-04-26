@@ -3,7 +3,7 @@
   <div>
     <img src="{{ '/objects/childrenAndGrands_600.jpg' | relative_url }}">
     <br>
-    <img src="{{ '/objects/yard_work.jpeg' | relative_url }}">
+    <img src="{{ '/objects/yardWork_600.jpg' | relative_url }}">
   </div>
 
   <div>
