@@ -63,16 +63,11 @@ exclude: [docs/, Rakefile, README.md, LICENSE, CITATION.cff, CODE_OF_CONDUCT.md,
 # compress CSS output
 sass:
   style: compressed
-##########
-# ITEM PAGE FIELDS
-#
-# These control what metadata shows on item pages
-##########
-# ITEM METADATA DISPLAY
+  
 ##########
 # ITEM METADATA DISPLAY
 
-fields:  
+fields:
   - field: title
     label: Title
   - field: creator
