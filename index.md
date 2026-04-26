@@ -2,7 +2,7 @@
 layout: home
 title: Home
 ---
-## Featured Letters
+## Featured Photos
 
 <div style="display: flex; gap: 20px;">
 
