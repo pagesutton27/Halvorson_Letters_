@@ -1,17 +1,21 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
+photographer,Photographer,
+recipient,Recipient,
 date,Date Created,
 page_number,Page Number,
 total_pages,Total Pages,
+findingaid,Finding Aid,
+keywords,Keywords,
 description,Transcription,
 subject,Subjects,true
 location,Location
-latitude,Latitude
-longitude,Longitude
 source,Source
 identifier,Source Identifier,,
 type,Type,
+item_size,Size,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+LCSH,Subject Headings
