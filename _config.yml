@@ -76,3 +76,10 @@ fields:
     label: Date
   - field: description
     label: Transcription
+data-page:
+  display-fields:
+    - objectid
+    - title
+    - creator
+    - date
+    - keywords
